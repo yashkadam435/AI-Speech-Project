@@ -22,7 +22,7 @@ Ensure you have Python 3.7+ installed on your machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-enhanced-pdf-narrator.git
+git clone https://github.com/yashkadam435/AI-Speech-Project.git
 cd emotion-enhanced-pdf-narrator
 ```
 
